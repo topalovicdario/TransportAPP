@@ -9,7 +9,7 @@ public class main {
 		GUI_MENi meni=new GUI_MENi();
 		meni.main(args);
 			
-			
+			//provjera rada
 		
 		
 
